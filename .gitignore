@@ -1,0 +1,6 @@
+logs/
+dataset/
+
+*.swp
+*.swo
+*.pyc
