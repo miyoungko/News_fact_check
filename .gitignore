@@ -1,6 +1,7 @@
 logs/
 dataset/
 
+*.ipynb_checkpoints/
 *.swp
 *.swo
 *.pyc
